@@ -1,3 +1,9 @@
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.1  // Add this Package in your pubspec.yaml file
+
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
